@@ -1,0 +1,111 @@
+ .card1{
+     background-image: url(/pics/IMG-20220314-WA0008.jpg);
+     background-size: 100%;
+     background-repeat: no-repeat;
+     text-indent: 50px;
+     height: 80vh;
+ }
+ .seg22{
+     margin-top: 23px;
+ }
+ .card{
+     border-style: none;
+ }
+ .logo{
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+ }
+ a{
+     text-decoration: none;
+     font-size: 24px;
+     margin-left: 54px;
+     color: gray;
+ }
+ p sub {
+     font-size: 44px;
+     
+ }
+ .ord{
+     margin-left: 23px;
+     width: 8rem;
+     color: white;
+     background-color: orangered;
+     border-style: none;
+ }
+.ftpb{
+    font-size: 23px;
+    color: orangered;
+}
+.st1{
+    height: 60vh;
+    border-top-left-radius: 34px;
+    border-bottom-right-radius: 34px;
+} 
+.st{
+    width: 12rem;
+}
+.st3{
+    width: 12rem;
+    height: 14rem;
+}
+.pb{
+    border: 1px solid;
+    width: 27px;
+    height: 21px;
+    border-radius: 14px;
+    color:orangered;
+}
+
+.tog{
+    width: 12rem;  
+}
+.seg2{
+    padding-top: 43px;
+}
+.seg3{
+    text-align: center;
+    background-image: url(/pics/istockphoto.jpg);
+    border-radius: 23px;
+    width: 52rem;
+    height: 50vh;
+    margin:12px 0px 0px 70px;
+    
+}
+ .ee{
+     text-align: center;
+ }
+ .card{
+     margin: 12px;
+ }
+ .img1{
+     height: 58%;
+ }
+ .spn{
+     margin-left: 5rem;
+     color: orangered;
+ }
+ .exp{
+     text-align: center;
+     margin-left: 30rem;
+     color:white;
+     background: orangered;
+ }
+ .h5{
+     text-align: center;
+ }
+ 
+ .limg{
+     width:20rem;
+     height: 183px;
+ }
+ h6{
+     text-align: center;
+ }
+ input{
+     margin-left: 34rem;
+ }
+ .btnl{
+     background: orangered;
+     color: white;
+     border-top-right-radius: 6px;
+     border-bottom-right-radius: 5px;
+ }

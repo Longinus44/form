@@ -1,0 +1,44 @@
+ .navbar a{
+     text-decoration: none;
+     color: aliceblue;
+ }
+ a:hover{
+     color: blue;
+ }
+ .navbar{
+     border: 1px solid;
+     padding-bottom: 12px;
+     background: navy;
+ }
+ .card{
+     border:2px solid;
+     width: 17rem;
+     height: 90vh;
+     margin-top: 12px;
+     background: rgb(185, 185, 36);
+    
+ }
+ .st{
+     height:11rem;
+     width: 11rem;
+     border-radius:8rem; 
+     margin-left: 43px;
+ }
+  .text{
+     width: 34rem;
+     margin-top:12px ;
+     height: 30%;
+ }
+ button{
+     margin-left: 16rem;
+     margin-top:3px;
+     width: 92px;
+ }
+ .con{
+     width: 6rem;
+     height: 6rem;
+     border-radius: 6rem;
+ }
+ .con span{
+     
+ }

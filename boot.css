@@ -1,0 +1,66 @@
+.check{
+    border: 2px solid ;
+    height: 90vh;
+}
+.pic1{
+    height: 8rem;
+    width: 8rem;
+    border-radius:4rem;
+    margin-left: 62px;
+    
+}
+.pic2{
+    height: 4rem;
+    width: 4rem;
+    border-radius: 2rem;
+    margin: 12px;    
+}
+.card{
+    width: 263px;
+    height: 22rem;
+    justify-content: space-around;
+}
+.card h1{
+    font-size: 19px;
+    font-weight: bold;
+    margin: 2px;
+}
+.card h3{
+    font-size:12px ;
+    margin: 12px;
+}
+span .btn{
+    margin-left: 39px;
+}
+.up{
+    margin-right: 23px;
+}
+.card h4{
+    font-size: 13px;
+}
+.card .cal{
+    font-size: 32px;
+}
+.card .end{
+    float: right;
+}
+.hi{
+    border: 1px solid;
+    padding-right: 44px;
+    height: 14rem;
+    margin-top: 22px;
+    margin-left: 9px;
+}
+.ha{
+    border: 1px solid;
+    position: absolute;
+    width: 263px;
+    height: 7rem;
+}
+.mb{
+    position: absolute;
+    margin-top:122px;
+    border: 1px solid;
+    width: 311px;
+    height: 8rem;
+}

@@ -1,0 +1,55 @@
+.prog{
+    display: flex;
+    
+    
+}
+.p1{
+    margin: 13px;
+    width: 22rem;
+}
+.p2{
+    margin: 13px;
+    width: 22rem;
+}
+.p3{
+    margin: 13px;
+    width: 22rem;
+}
+.big{
+    font-size: 145px;
+    color: white;
+    background: yellow;
+}
+
+.seg1{
+    border: 2px solid;
+    text-align: center;
+}
+.seg11{
+    border: 2px solid;
+    
+    display: grid;
+}
+.mar{
+    background: chocolate;
+}
+.seg2{
+    border: 2px solid aquamarine;
+}
+.seg22{
+    border: 2px solid;
+    margin: 2px;
+    height: 60vh;
+    
+}
+.flo{
+    border: 1px solid;
+    width: 14rem;
+display: flex;
+}
+.seg3{
+    border: 2px solid;
+}
+.seg33{
+    border: 2px solid;
+}

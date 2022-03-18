@@ -1,0 +1,69 @@
+body{
+    background:black;
+}
+.container{
+    background-color: tomato;
+}
+.check{
+    border: 1px solid;
+    border-radius: 14px 9px 9px 14px;
+    background-color: rgb(19, 83, 83);
+    color: white;
+}
+a{
+    color: white;
+}
+span{
+    margin-left: 23px;
+}
+.img{
+    height: 85px;
+    border-radius: 85px;
+    margin-top: 23px;
+}
+.col{
+   margin: 23px 0px 0px ;
+}
+.up{
+    height: 9rem;
+}
+.up1{
+    height: 9rem;
+    background: rgb(122, 33, 206);
+}
+.up2{
+    height: 9rem;
+    background: lightgreen;
+}
+.up3{
+    height: 9rem;
+    background: rgb(255, 64, 64);
+}
+.up4{
+    height: 9rem;
+    background-color: orange;
+}
+.bit{
+    float: right;
+    border: 1px solid;
+    font-size: 12px;
+    background: rgb(104, 26, 177);
+}
+.bit2{
+    float: right;
+    border: 1px solid;
+    font-size: 12px;
+    background: lightgreen;
+}
+.bit3{
+    float: right;
+    border: 1px solid;
+    font-size: 12px;
+    background: crimson;
+}
+.bit4{
+    float: right;
+    border: 1px solid;
+    font-size: 12px;
+    background: orange;
+}
